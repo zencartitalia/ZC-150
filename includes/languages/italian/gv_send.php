@@ -30,14 +30,14 @@ define('TEXT_AVAILABLE_BALANCE','Saldo Buoni Regalo attualmente disponibile: ');
 define('EMAIL_GV_TEXT_SUBJECT', 'Un regalo da %s');
 define('EMAIL_SEPARATOR', '----------------------------------------------------------------------------------------');
 define('EMAIL_GV_TEXT_HEADER', 'Complimenti, hai ricevuto un ' . TEXT_GV_NAME . ' del valore di %s');
-define('EMAIL_GV_FROM', 'Questo ' . TEXT_GV_NAME . ' ti è stato inviato da %s');
+define('EMAIL_GV_FROM', 'Questo ' . TEXT_GV_NAME . ' ti Ã¨ stato inviato da %s');
 define('EMAIL_GV_MESSAGE', 'con il seguente messaggio: ');
 define('EMAIL_GV_SEND_TO', 'Ciao, %s');
-define('EMAIL_GV_REDEEM', 'Per riscuotere questo ' . TEXT_GV_NAME . ', clicca sul link sottostante. Ti consigliamo anche di annotare il codice del Buono: %s  qualora dovessero insorgere difficoltà.');
+define('EMAIL_GV_REDEEM', 'Per riscuotere questo ' . TEXT_GV_NAME . ', clicca sul link sottostante. Ti consigliamo anche di annotare il codice del Buono: %s  qualora dovessero insorgere difficoltÃ .');
 define('EMAIL_GV_LINK', 'Per riscuotere clicca qui');
 define('EMAIL_GV_VISIT', ' oppure visita ');
 define('EMAIL_GV_ENTER', ' ed inserisci il ' . TEXT_GV_REDEEM . ' ');
-define('EMAIL_GV_FIXED_FOOTER', 'Se dovessi incontrare difficoltà nella riscossione dei ' . TEXT_GV_NAME . ' mediante il link automatico qui sopra, ' . "\n" .
+define('EMAIL_GV_FIXED_FOOTER', 'Se dovessi incontrare difficoltÃ  nella riscossione dei ' . TEXT_GV_NAME . ' mediante il link automatico qui sopra, ' . "\n" .
 'puoi anche inserire il ' . TEXT_GV_NAME . ' e riscuoterlo durante la procedura di acquisto.');
 define('EMAIL_GV_SHOP_FOOTER', '');
 ?>

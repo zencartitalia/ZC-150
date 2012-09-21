@@ -20,6 +20,6 @@ define('ERROR_WRONG_EMAIL_NULL', '<p>Attenzione!</p>');
 define('SUCCESS_PASSWORD_SENT', '<p>Fatto: abbiamo inviato una nuova Password al tuo indirizzo Email.<br />Premi "login" qui sotto per effettuare il login con la nuova password temporanea.</p>');
 
 define('TEXT_EMAIL_SUBJECT_PWD_RESET', 'La modifica da te chiesta');
-define('TEXT_EMAIL_MESSAGE_PWD_RESET', 'Una nuova Password è stata chiesta da %s.' . "\n\n" . 'La tua nuova Password è:' . "\n\n   %s\n\nTi verrà chiesto di inserire una nuova password appena effettuato il login.\n\nQuesta password temporanea scade tra 24 ore.\n\n\n");
+define('TEXT_EMAIL_MESSAGE_PWD_RESET', 'Una nuova Password Ã¨ stata chiesta da %s.' . "\n\n" . 'La tua nuova Password Ã¨:' . "\n\n   %s\n\nTi verrÃ  chiesto di inserire una nuova password appena effettuato il login.\n\nQuesta password temporanea scade tra 24 ore.\n\n\n");
 
 ?>

@@ -22,7 +22,7 @@ define('EMAIL_GREET_NONE', 'Gentile %s' . "\n\n");
 // First line of the greeting
 define('EMAIL_WELCOME', 'Siamo lieti di accoglierti fra gli amici di <strong>' . STORE_NAME . '</strong>.' . "\n\n");
 define('EMAIL_SEPARATOR', '--------------------');
-define('EMAIL_COUPON_INCENTIVE_HEADER', 'Complimenti! Per fare in modo che la tua prossima visita al nostro negozio online sia ancora più utile, abbiamo emesso un Buono Sconto a tuo favore di cui ora ti illustriamo i particolari!' . "\n\n");
+define('EMAIL_COUPON_INCENTIVE_HEADER', 'Complimenti! Per fare in modo che la tua prossima visita al nostro negozio online sia ancora piÃ¹ utile, abbiamo emesso un Buono Sconto a tuo favore di cui ora ti illustriamo i particolari!' . "\n\n");
 // your Discount Coupon Description will be inserted before this next define
 define('EMAIL_COUPON_REDEEM', 'Se vuoi utilizzare il Buono inserisci il ' . TEXT_GV_REDEEM . ' codice durante la fase di acquisto:  <strong>%s</strong>' . "\n\n");
 define('TEXT_COUPON_HELP_DATE', '<p>Buono valido da %s al %s</p>');
@@ -40,5 +40,5 @@ define('EMAIL_CONTACT', 'Per qualsiasi informazione riguardante i nostri servizi
 define('EMAIL_GV_CLOSURE', "\n" . 'Con i migliori saluti,' . "\n\n" . STORE_OWNER . "\n\n". '<a href="' . HTTP_SERVER . DIR_WS_CATALOG . '">'.HTTP_SERVER ."</a>\n\n");
 
 // email disclaimer - this disclaimer is seperate from all other email disclaimers
-define('EMAIL_DISCLAIMER_NEW_CUSTOMER', 'Questo indirizzo e-mail ci è stato fornito da uno dei nostri Clienti. Se però non intendi creare un account, o se questa e-mail ti è giunta per sbaglio, ti preghiamo di segnalarlo senza timore, inviando una e-mail a %s ');
+define('EMAIL_DISCLAIMER_NEW_CUSTOMER', 'Questo indirizzo e-mail ci Ã¨ stato fornito da uno dei nostri Clienti. Se perÃ² non intendi creare un account, o se questa e-mail ti Ã¨ giunta per sbaglio, ti preghiamo di segnalarlo senza timore, inviando una e-mail a %s ');
 

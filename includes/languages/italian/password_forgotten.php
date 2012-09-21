@@ -17,7 +17,7 @@ define('TEXT_MAIN', 'Poco male! Inserisci l\'indirizzo e-mail utilizzato in fase
 define('TEXT_NO_EMAIL_ADDRESS_FOUND', 'Errore: l\'indirizzo e-mail non risulta nel nostro archivio, riprova con un altro.');
 
 define('EMAIL_PASSWORD_REMINDER_SUBJECT', STORE_NAME . ' - Nuova Password');
-define('EMAIL_PASSWORD_REMINDER_BODY', 'E\' stata chiesta una nuova Password da ' . $_SERVER['REMOTE_ADDR']  . '.' . "\n\n" . 'La tua nuova Password per \'' . STORE_NAME . '\' è:' . "\n\n" . '   %s' . "\n\n");
+define('EMAIL_PASSWORD_REMINDER_BODY', 'E\' stata chiesta una nuova Password da ' . $_SERVER['REMOTE_ADDR']  . '.' . "\n\n" . 'La tua nuova Password per \'' . STORE_NAME . '\' Ã¨:' . "\n\n" . '   %s' . "\n\n");
 
 define('SUCCESS_PASSWORD_SENT', 'Attenzione, la nuova Password &egrave; stata inviata all\'indirizzo e-mail indicato, tra qualche minuto arriver&agrave; la mail, si prega di controllare.');
 ?>

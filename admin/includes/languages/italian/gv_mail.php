@@ -43,13 +43,13 @@ define('ERROR_GV_AMOUNT', 'Definire Ammontare come Valore senza simboli. Esempio
 define('TEXT_GV_ANNOUNCE','<font color="#0000ff">Siamo lieti di inviarti un ' . TEXT_GV_NAME . '</font>');
 define('TEXT_GV_WORTH', 'Il ' . TEXT_GV_NAME . ' vale ');
 define('TEXT_TO_REDEEM', 'Per riscuotere questo ' . TEXT_GV_NAME . ', cliccare sul link qui sotto. Inserire anche il ' . TEXT_GV_REDEEM);
-define('TEXT_WHICH_IS', ' che Ë');
-define('TEXT_IN_CASE', ' se incontrassi difficolt‡.');
+define('TEXT_WHICH_IS', ' che √®');
+define('TEXT_IN_CASE', ' se incontrassi difficolt√†.');
 define('TEXT_OR_VISIT', 'o visita ');
 define('TEXT_ENTER_CODE', ' e inserisci il codice in fase di acquisto');
 define('TEXT_CLICK_TO_REDEEM','Clicca qui per riscuotere');
 
-define ('TEXT_REDEEM_COUPON_MESSAGE_HEADER', 'Hai acquistato un  ' . TEXT_GV_NAME . ' dal nostro sito, ma per motivi di sicurezza l\'ammontare del  ' . TEXT_GV_NAME . ' non Ë stato accreditato subito. Adesso l\'ammontare del buono Ë stato svincolato.');
+define ('TEXT_REDEEM_COUPON_MESSAGE_HEADER', 'Hai acquistato un  ' . TEXT_GV_NAME . ' dal nostro sito, ma per motivi di sicurezza l\'ammontare del  ' . TEXT_GV_NAME . ' non √® stato accreditato subito. Adesso l\'ammontare del buono √® stato svincolato.');
 define ('TEXT_REDEEM_COUPON_MESSAGE_AMOUNT', "\n\n" . 'Il valore del  ' . TEXT_GV_NAME . ' era %s');
 define ('TEXT_REDEEM_COUPON_MESSAGE_BODY', "\n\n" . 'Ora puoi accedere al nostro sito e inviare l\'ammontare del  ' . TEXT_GV_NAME . ' alla persona che desideri.');
 define ('TEXT_REDEEM_COUPON_MESSAGE_FOOTER', "\n\n");

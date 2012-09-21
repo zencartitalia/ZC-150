@@ -31,7 +31,7 @@ define('CUSTOM_KEYWORDS', 'e-commerce, open source, online shopping, zencart-ita
   define('META_TAG_KEYWORDS_EZPAGE_#','');
   define('META_TAG_TITLE_EZPAGE_#', '');
 
-// Per-Page meta-tags. Segui questo modello per le pagine che si desidera siano in override. Questo è utile principalmente per altre pagine aggiunte.
+// Per-Page meta-tags. Segui questo modello per le pagine che si desidera siano in override. Questo Ã¨ utile principalmente per altre pagine aggiunte.
 // Sostituire "page_name" con il UPPERCASE nome delle proprie main_page= valore, come: ABOUT_US o SHIPPINGINFO ecc.
 // Ripetere il modello tante volte quanto necessario
   define('META_TAG_DESCRIPTION_page_name','');

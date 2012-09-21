@@ -80,7 +80,7 @@ define('EMAIL_TEXT_ORDER_NUMBER', 'Numero Ordine:');
 define('EMAIL_TEXT_INVOICE_URL', 'Fattura Dettagliata:');
 define('EMAIL_TEXT_DATE_ORDERED', 'Data Ordine:');
 define('EMAIL_TEXT_COMMENTS_UPDATE', '<em>I commenti al tuo ordine sono: </em>');
-define('EMAIL_TEXT_STATUS_UPDATED', 'Il tuo ordine è stato aggiornato.' . "\n");
+define('EMAIL_TEXT_STATUS_UPDATED', 'Il tuo ordine Ã¨ stato aggiornato.' . "\n");
 define('EMAIL_TEXT_STATUS_LABEL', '<strong>Nuovo stato:</strong> %s' . "\n\n");
 define('EMAIL_TEXT_STATUS_PLEASE_REPLY', 'Se hai domande da porre rispondi pure a questa Email.' . "\n");
 

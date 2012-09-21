@@ -25,14 +25,14 @@
   if (!defined('OFFICE_IP_TO_HOST_ADDRESS')) define('OFFICE_IP_TO_HOST_ADDRESS', 'OFF');
 
 // email disclaimer
-  define('EMAIL_DISCLAIMER', 'Questo indirizzo e-mail ci è stato fornito da un nostro cliente. Se ritieni che questo messaggio ti sia giunto per errore, ti preghiamo di inviare una segnalazione mail a %s ');
-  define('EMAIL_SPAM_DISCLAIMER','Email inviata in ossequio alle vigenti norme e disposizioni in materia, non desiderando più ricevere email è possibile richiedere la rimozione a questo indirizzo.');
+  define('EMAIL_DISCLAIMER', 'Questo indirizzo e-mail ci Ã¨ stato fornito da un nostro cliente. Se ritieni che questo messaggio ti sia giunto per errore, ti preghiamo di inviare una segnalazione mail a %s ');
+  define('EMAIL_SPAM_DISCLAIMER','Email inviata in ossequio alle vigenti norme e disposizioni in materia, non desiderando piÃ¹ ricevere email Ã¨ possibile richiedere la rimozione a questo indirizzo.');
   define('EMAIL_FOOTER_COPYRIGHT','Copyright (c) ' . date('Y') . ' <a href="' . zen_href_link(FILENAME_DEFAULT) . '" target="_blank">' . STORE_NAME . '</a>. E-commerce by <a href="http://www.zencart-italia.it" target="_blank">Zen Cart Italia</a>');
   define('TEXT_UNSUBSCRIBE', "\n\nPer rinunciare a future newsletter o mailing promozionali, semplicemente digitare questo link: \n");
 
 
 // email advisory for all emails customer generate - tell-a-friend and GV send
-  define('EMAIL_ADVISORY', '-----' . "\n" . '<strong>IMPORTANTE - </strong> Per la tua tutela e per prevenire abusi, tutte le e-mail spedite a mezzo di questo sito sono registrate e il webmaster può visualizzarne il contenuto. Se ritieni che questo messaggio ti sia giunto per errore, ti preghiamo di inviare una segnalazione via mail a ' . STORE_OWNER_EMAIL_ADDRESS . "\n\n");
+  define('EMAIL_ADVISORY', '-----' . "\n" . '<strong>IMPORTANTE - </strong> Per la tua tutela e per prevenire abusi, tutte le e-mail spedite a mezzo di questo sito sono registrate e il webmaster puÃ² visualizzarne il contenuto. Se ritieni che questo messaggio ti sia giunto per errore, ti preghiamo di inviare una segnalazione via mail a ' . STORE_OWNER_EMAIL_ADDRESS . "\n\n");
 
 // email advisory included warning for all emails customer generate - tell-a-friend and GV send
   define('EMAIL_ADVISORY_INCLUDED_WARNING', '<strong>Nelle mail inviate dal Sito &egrave; inserito questo messaggio:<br><br></strong>');

@@ -22,5 +22,5 @@
   define('MODULE_PAYMENT_CC_TEXT_EMAIL_ERROR','ATTENZIONE - Errore nella Configurazione: ');
   define('MODULE_PAYMENT_CC_TEXT_EMAIL_WARNING','ATTENZIONE: Hai abilitato il modulo di pagamento tramite Carta di Credito ma non lo hai ancora configurato per inviare le informazioni della Carta di Credito a te tramite email. Come conseguenza, non sarai in grado di processare i numeri di Carta di Credito per gli ordini piazzati usando questo metodo.  Vai in Admin->Moduli->Pagamento->Credit Card->Modifica e imposta l\'indirizzo email per l\'invio delle informazioni Carta di Credito.' . "\n\n\n\n");
   define('MODULE_PAYMENT_CC_TEXT_MIDDLE_DIGITS_MESSAGE', '
-Pregasi inviare questa mail all\'ufficio contabilità in modo da poterla archiviare con l\'ordine relativo a: ' . "\n\n" . 'Ordine: %s' . "\n\n" . 'Cifre centrali: %s' . "\n\n");
+Pregasi inviare questa mail all\'ufficio contabilitÃ  in modo da poterla archiviare con l\'ordine relativo a: ' . "\n\n" . 'Ordine: %s' . "\n\n" . 'Cifre centrali: %s' . "\n\n");
 ?>

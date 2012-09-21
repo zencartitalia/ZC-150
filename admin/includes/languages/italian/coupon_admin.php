@@ -44,12 +44,12 @@ define('TEXT_COUPON_ANNOUNCE','Siamo lieti di regalarti un Buono del Negozio.');
 
 define('TEXT_TO_REDEEM', 'Puoi riscuotere questo Buono in fase di acquisto. Basta inserire il codice nel campo apposito e cliccare sul bottone di riscossione.');
 define('TEXT_IN_CASE', ' qualora incontrassi una qualsiasi difficolt&agrave;. ');
-define('TEXT_VOUCHER_IS', 'Il codice del Buono è ');
+define('TEXT_VOUCHER_IS', 'Il codice del Buono Ã¨ ');
 define('TEXT_REMEMBER', 'Non perdere il codice del Buono, conservalo in modo sicuro per poter beneficiare di questa offerta speciale.');
 define('TEXT_VISIT', 'Visitaci a %s');
 define('TEXT_ENTER_CODE', ' ed inserisci il codice ');
 
-define('TEXT_COUPON_HELP_DATE', '<p><p>Il Buono è valido tra %s e %s</p></p>');
+define('TEXT_COUPON_HELP_DATE', '<p><p>Il Buono Ã¨ valido tra %s e %s</p></p>');
 define('HTML_COUPON_HELP_DATE', '<p><p>Il Buono &egrave; valido tra %s e %s</p></p>');
 
 define('TABLE_HEADING_ACTION', 'Azione');

@@ -29,8 +29,8 @@ define('TABLE_HEADING_DATE_PURCHASED', 'Data Acquisto');
 define('TABLE_HEADING_ACTION', 'Azione');
 
 define('TEXT_REDEEM_GV_MESSAGE_HEADER', 'Hai appena acquistato un ' . TEXT_GV_NAME . ' dal nostro negozio online.');
-define('TEXT_REDEEM_GV_MESSAGE_RELEASED', 'Per motivi di sicurezza non ne hai avuto l\'immediata disponibilit‡. ' .
-                                          'Adesso perÚ questo ammontare Ë stato sbloccato. Per usufruirne vai al tuo Account e da lÏ decidi se accreditare il valore del ' . TEXT_GV_NAME . ' via email ad altri oppure se usarlo per te.' . "\n\n"
+define('TEXT_REDEEM_GV_MESSAGE_RELEASED', 'Per motivi di sicurezza non ne hai avuto l\'immediata disponibilit√†. ' .
+                                          'Adesso per√≤ questo ammontare √® stato sbloccato. Per usufruirne vai al tuo Account e da l√¨ decidi se accreditare il valore del ' . TEXT_GV_NAME . ' via email ad altri oppure se usarlo per te.' . "\n\n"
                                           );
 
 define('TEXT_REDEEM_GV_MESSAGE_AMOUNT', 'I ' . TEXT_GV_NAME . ' da te acquistati valgono %s');

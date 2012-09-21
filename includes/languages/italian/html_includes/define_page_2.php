@@ -7,7 +7,7 @@ sar&agrave; possibile iniziare a personalizzare lo store. Non &egrave; assolutam
 <br />
 <h3 align="center">Buona continuazione con Zen Cart!</h3>
 <br />
-Il consiglio è di cominciare subito accedendo al pannello di amministrazione per familiarizzare con il contenuto; iniziare da <b>Configurazione</b> "Info Negozio" dove controllare quanto inserito ed aggiungere  i dati mancanti come il numero per assistenza clienti ed i dati fiscali obbligatori. &Egrave; inoltre importante verificare la programmazione cos&igrave; da settare tutto l'insieme secondo le proprie specifiche esigenze, il mercato di riferimento ecc... (in dettaglio a pag. 4)<br /><br />
+Il consiglio Ã¨ di cominciare subito accedendo al pannello di amministrazione per familiarizzare con il contenuto; iniziare da <b>Configurazione</b> "Info Negozio" dove controllare quanto inserito ed aggiungere  i dati mancanti come il numero per assistenza clienti ed i dati fiscali obbligatori. &Egrave; inoltre importante verificare la programmazione cos&igrave; da settare tutto l'insieme secondo le proprie specifiche esigenze, il mercato di riferimento ecc... (in dettaglio a pag. 4)<br /><br />
 
 <h4 class="productSpecialPrice" style="padding: 0pt 90px;">&Egrave; fondamentale in questa fase investire il tempo necessario alla scoperta di ogni singola voce e dei parametri presenti nei vari men&ugrave;.</h4>
 

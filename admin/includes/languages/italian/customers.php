@@ -51,7 +51,7 @@ define('ERROR_CUSTOMER_APPROVAL_CORRECTION1', 'Attenzione: shop settato per Auto
 Il cliente &egrave; in attesa dell\'Autorizzazione alla navigazione del negozio.');
 define('ERROR_CUSTOMER_APPROVAL_CORRECTION2', 'Attenzione: Attenzione: shop settato per Autorizzazione con navigazione ma senza prezzi a vista. Il cliente &egrave; in attesa dell\'Autorizzazione per poter vedre i prezzi.');
 
-define('EMAIL_CUSTOMER_STATUS_CHANGE_MESSAGE', 'Il tuo stato cliente è stato aggiornato. Grazie per averci scelto..');
+define('EMAIL_CUSTOMER_STATUS_CHANGE_MESSAGE', 'Il tuo stato cliente Ã¨ stato aggiornato. Grazie per averci scelto..');
 define('EMAIL_CUSTOMER_STATUS_CHANGE_SUBJECT', 'Stato Cliente Aggiornato');
 
 define('ADDRESS_BOOK_TITLE', 'Voci Elenco indirizzi');

@@ -196,7 +196,7 @@ define('ENTRY_EMAIL_ADDRESS_ERROR_EXISTS', 'Questo indirizzo e-mail &egrave; gi&
   define('ENTRY_EMAIL_ADDRESS_TEXT', '*');
 define('ENTRY_NICK', 'Soprannome per il Forum:');
 define('ENTRY_NICK_TEXT', '');
-define('ENTRY_NICK_DUPLICATE_ERROR', 'Questo soprannome Ë gi‡ in uso.');
+define('ENTRY_NICK_DUPLICATE_ERROR', 'Questo soprannome √® gi√† in uso.');
 define('ENTRY_NICK_LENGTH_ERROR', 'Il soprannome deve contenere almeno ' . ENTRY_NICK_MIN_LENGTH . ' caratteri.');
 define('ENTRY_STREET_ADDRESS', 'Via, Piazza, N.:');
 define('ENTRY_STREET_ADDRESS_ERROR', 'Nel campo Via, Piazza, N. vanno inseriti almeno ' . ENTRY_STREET_ADDRESS_MIN_LENGTH . ' caratteri.');
