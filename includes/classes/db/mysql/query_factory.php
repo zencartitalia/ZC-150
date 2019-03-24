@@ -403,6 +403,9 @@ class queryFactory extends base {
         }
         return '\'' . $this->prepare_input($value) . '\'';
       break;
+      case 'stringIgnoreNull':
+        return '\'' . $this->prepare_input($value) . '\'';
+      break;
       case 'noquotestring':
         return $this->prepare_input($value);
       break;
